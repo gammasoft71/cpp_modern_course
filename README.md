@@ -1,6 +1,6 @@
-# C++ course
+# Modern C++ course
 
-![logo](pictures/logo.png)
+![logo](docs/pictures/logo.png)
 
 Contains an outline of a modern C++ course.
 
