@@ -2,7 +2,6 @@
 
 ![logo](pictures/logo.png)
 
-Contains modern **C++** course.
 Contains an outline of a modern C++ course.
 
 This course is aimed at inexperienced developers as well as experienced developers with no knowledge of **C++**.
