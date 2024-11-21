@@ -6,7 +6,7 @@
 
 * Free and open-source ([MIT License](LICENSE.md)).
 * This course aimed at inexperienced developers as well as experienced developers with no knowledge of Modern C++.
-* This course covers concepts from C++98 to C++26, while keeping modern C++ in mind.
+* This course covers concepts from C++98 to C++23, while keeping modern C++ in mind.
 * The corresponding C++ version is indicated for each concept and feature.
 
 ![hello_world_soure](docs/pictures/hello_world_soure.png)
