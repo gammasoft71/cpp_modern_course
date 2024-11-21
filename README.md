@@ -34,6 +34,37 @@
   * inline keyword
   * Assertions
 * Object Oriented Programming (OOP)
+  * Objects and Classes
+  * Inheritance
+  * Constructors / Destructors
+  * Static members
+  * Allocating objects
+  * Advanced Oriented Object
+  * Type casing
+  * Opertor overloading
+  * Function objets
+  * Name Lookups
 * Core Modern C++
+  * Constness
+  * Constant expressions
+  * Exceptions
+  * Move semantics
+  * Copy elision
+  * Templates
+  * Lambdas
+  * The Standard Template Library 
+  * The Standard Library
+  * Ranges
+  * RAII and Smart pointers
+  * Initialization
 * Modern C++ Expert
+  * The <=> operator
+  * Variadic templates
+  * Perfect forwarding
+  * SFINAE
+  * Concepts
+  * Modules
+  * Coroutines
 * Advanved Programming
+  * Using CMake 
+  * ...
