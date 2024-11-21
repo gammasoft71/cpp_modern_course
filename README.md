@@ -9,7 +9,7 @@
 * This course covers concepts from C++98 to C++26, while keeping modern C++ in mind.
 * The corresponding C++ version is indicated for each concept and feature.
 
-![hello_world_cpp23](docs/pictures/language_basics/hello_world_cpp23.png)
+![hello_world_sourece_cpp23](docs/pictures/language_basics/hello_world_sourece_cpp23.png)
 
 ## Outline
 
