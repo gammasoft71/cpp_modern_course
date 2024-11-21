@@ -9,8 +9,16 @@
 * This course covers concepts from C++98 to C++23, while keeping modern C++ in mind.
 * The corresponding C++ version is indicated for each concept and feature.
 
+## Example
+
+### source.cpp
 ![hello_world_soure](docs/pictures/hello_world_soure.png)
 
+### CMakeLists.txt
+![hello_world_cmake](docs/pictures/hello_world_cmake.png)
+
+### Output
+![hello_world_outputpng](docs/pictures/hello_world_outputpng.png)
 ## Outline
 
 * Introdcution
