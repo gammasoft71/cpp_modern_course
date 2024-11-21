@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="HL9tpl2mjup6W_uzbUZZ">
-    <mxGraphModel dx="1242" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,10 +52,10 @@
         <mxCell id="gAmYSOkUOZpaXEnm3ixl-8" value="SMALTALK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gAmYSOkUOZpaXEnm3ixl-9" value="Java" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gAmYSOkUOZpaXEnm3ixl-9" value="Java" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="200" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gAmYSOkUOZpaXEnm3ixl-10" value="C#" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gAmYSOkUOZpaXEnm3ixl-10" value="C#" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gAmYSOkUOZpaXEnm3ixl-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3399FF;strokeWidth=2;fontColor=#000000;fontSize=20;" edge="1" parent="1" source="gAmYSOkUOZpaXEnm3ixl-8" target="gAmYSOkUOZpaXEnm3ixl-9">
