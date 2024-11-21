@@ -17,7 +17,7 @@
 ### CMakeLists.txt
 ![hello_world_cmake](docs/pictures/hello_world_cmake.png)
 
-### Output
+### Console output
 ![hello_world_outputpng](docs/pictures/hello_world_outputpng.png)
 ## Outline
 
