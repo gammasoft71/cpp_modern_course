@@ -1,6 +1,6 @@
 # keynotes
 
-![logo](../docs/pictures/logo.png)
+![logo](../../docs/pictures/logo.png)
 
 Contains the Keynote (macOS) files of Modern C++ course.
 These files are the main input of this course.
