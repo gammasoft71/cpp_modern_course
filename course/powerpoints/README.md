@@ -14,6 +14,7 @@ Contains the PowerPoint (Windows) files of Modern C++ course.
 * [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.pptx) Contains the "Modern C++ Expert" slides.
 
 > ** Warning**
+>
 > These files were generated from [keynote](../keynotes/README.md) files.
 >
 > Changes made to these files will be lost when they are regenerated.

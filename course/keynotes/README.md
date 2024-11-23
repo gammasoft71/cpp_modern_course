@@ -14,6 +14,7 @@ Contains the Keynote (macOS) files of Modern C++ course.
 * [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.key) Contains the "Modern C++ Expert" slides.
 
 > **Remarks**
+>
 > These files are the main input of this course.
 >
 > Others PowerPoint (Windows) and PDF (Universal) files are generated from these files.
