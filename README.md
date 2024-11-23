@@ -38,7 +38,7 @@
   * Operators
   * Control structuees
   * Headers and interfaces
-  * Auto keyword
+  * auto keyword
   * inline keyword
   * Assertions
 * Object Oriented Programming (OOP)
