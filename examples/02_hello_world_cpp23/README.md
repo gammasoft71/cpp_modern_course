@@ -1,4 +1,4 @@
-# 01_hello_world_cpp23
+# 02_hello_world_cpp23
 
 The classic first application "Hello World" in C++23.
 
