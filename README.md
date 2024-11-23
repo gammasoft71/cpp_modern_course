@@ -23,10 +23,10 @@
 
 ## Content
 
-[course](course/README.md) contains Keynote (macOS), PowerPoint (Windows) and PDF (Universal) files.
-[docs](docs/README.md) contains diagrams and pictures from the slides.
-[examples](examples/README.md) contains examples from the slides.
-[exercises](examples/README.md) contains exercises from the slides.
+* [course](course/README.md) contains Keynote (macOS), PowerPoint (Windows) and PDF (Universal) files.
+* [docs](docs/README.md) contains diagrams and pictures from the slides.
+* [examples](examples/README.md) contains examples from the slides.
+* [exercises](examples/README.md) contains exercises from the slides.
 
 ## Outline
 
