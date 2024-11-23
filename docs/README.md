@@ -4,4 +4,4 @@
 
 Contains exercises and solutions from this modern C++ course.
 
-[01_functions](01_functions/README.md) Functions and how arguments are passed in C++
+* [keynotes](keynotes/README.md) Containes Keynote (macOS) files.
