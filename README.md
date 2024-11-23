@@ -8,6 +8,7 @@
 * This course aimed at inexperienced developers as well as experienced developers with no knowledge of Modern C++.
 * This course covers concepts from C++98 to C++23, while keeping modern C++ in mind.
 * The corresponding C++ version is indicated for each concept and feature.
+* This course was inspired in part by [cpluspluscourse](https://github.com/hsf-training/cpluspluscourse).
 
 ## Example
 
@@ -19,6 +20,14 @@
 
 ### Console output
 ![hello_world_outputpng](docs/pictures/hello_world_outputpng.png)
+
+## Content
+
+[course](course/README.md) contains Keynote (macOS), PowerPoint (Windows) and PDF (Universal) files.
+[docs](docs/README.md) contains diagrams and pictures from the slides.
+[examples](examples/README.md) contains examples from the slides.
+[exercises](examples/README.md) contains exercises from the slides.
+
 ## Outline
 
 * Introdcution
@@ -76,6 +85,3 @@
   * Using CMake 
   * ...
   
-## Remarks
-
-This course was inspired in part by [cpluspluscourse](https://github.com/hsf-training/cpluspluscourse).
