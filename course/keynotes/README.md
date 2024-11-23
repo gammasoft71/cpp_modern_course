@@ -13,7 +13,7 @@ Contains the Keynote (macOS) files of Modern C++ course.
 * [05_modern_cpp_course_modern_cpp_expert](05_modern_cpp_course_modern_cpp_expert.key) Contains the "Modern C++ Expert" slides.
 * [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.key) Contains the "Modern C++ Expert" slides.
 
-> **Remarks**
+> [**Remarks**]
 >
 > These files are the main input of this course.
 >
