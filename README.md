@@ -60,7 +60,6 @@
   * Copy elision
   * Templates
   * Lambdas
-  * The Standard Template Library 
   * The Standard Library
   * Ranges
   * RAII and Smart pointers
@@ -76,3 +75,7 @@
 * Advanved Programming
   * Using CMake 
   * ...
+  
+## Remarks
+
+This course was inspired in part by [cpluspluscourse] (https://github.com/hsf-training/cpluspluscourse).
