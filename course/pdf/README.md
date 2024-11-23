@@ -13,7 +13,7 @@ Contains the PDF (Universal) files of Modern C++ course.
 * [05_modern_cpp_course_modern_cpp_expert](05_modern_cpp_course_modern_cpp_expert.pdf) Contains the "Modern C++ Expert" slides.
 * [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.pdf) Contains the "Modern C++ Expert" slides.
 
-> ** Warning**
+> **Warning**
 >
 > These files were generated from [keynote](../keynotes/README.md) files.
 >
