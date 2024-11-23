@@ -1,9 +1,8 @@
 # Documentations
 
-![logo](../docs/pictures/logo.png)
+![logo](pictures/logo.png)
 
 Contains exercises and solutions from this modern C++ course.
 
-* [keynotes](keynotes/README.md) Containes Keynote (macOS) files.
-* [pdf](pdf/README.md) Containes PDF (Universal) files.
-* [powerpoint](powerpoint/README.md) Containes PowerPoint (Windows) files.
+* [diagrams](diagrams/README.md) Containes pictures.
+* [pictures](pictures/README.md) Containes diagrams.
