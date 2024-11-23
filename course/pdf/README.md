@@ -4,6 +4,7 @@
 
 Contains the PDF (Universal) files of Modern C++ course.
 
+* [modern_cpp_course_full](modern_cpp_course_full.pdf) Contains all slides.
 * [00_modern_cpp_course_outline](00_modern_cpp_course_outline.pdf) Contains the outline slides.
 * [01_modern_cpp_course_introduction](01_modern_cpp_course_introduction.pdf) Contains the "Introduction" slides.
 * [02_modern_cpp_course_language_basics](02_modern_cpp_course_language_basics.pdf) Contains the "Language Basics" slides.
@@ -11,7 +12,6 @@ Contains the PDF (Universal) files of Modern C++ course.
 * [04_modern_cpp_course_core_modern_cpp](02_modern_cpp_course_language_basics.pdf) Contains the language "Core Modern C++" slides.
 * [05_modern_cpp_course_modern_cpp_expert](05_modern_cpp_course_modern_cpp_expert.pdf) Contains the "Modern C++ Expert" slides.
 * [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.pdf) Contains the "Modern C++ Expert" slides.
-* [modern_cpp_course_full](modern_cpp_course_full.pdf) Contains all slides.
 
 > ** Warning**
 > These files were generated from [keynote](../keynotes/README.md) files.
