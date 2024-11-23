@@ -2,7 +2,7 @@
 
 ![logo](../../docs/pictures/logo.png)
 
-Contains the PDE (Universal) files of Modern C++ course.
+Contains the PDF (Universal) files of Modern C++ course.
 
 * [00_modern_cpp_course_outline](00_modern_cpp_course_outline.key) Contains the outline slides.
 * [01_modern_cpp_course_introduction](01_modern_cpp_course_introduction.key) Contains the "Introduction" slides.
