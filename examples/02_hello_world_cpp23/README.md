@@ -4,7 +4,7 @@ The classic first application "Hello World" in C++23.
 
 ## Source
 
-[hello_world.cpp](hello_world.cpp)
+[program.cpp](program.cpp)
 
 [CMakeLists.txt](CMakeLists.txt)
 
