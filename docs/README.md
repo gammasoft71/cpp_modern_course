@@ -1,4 +1,4 @@
-# Exercises
+# Documentations
 
 ![logo](../docs/pictures/logo.png)
 
