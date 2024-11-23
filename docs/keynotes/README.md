@@ -3,7 +3,9 @@
 ![logo](../../docs/pictures/logo.png)
 
 Contains the Keynote (macOS) files of Modern C++ course.
+
 These files are the main input of this course.
+
 Others PowerPoint (Windows) and PDF (Universal) files are generated from these files.
 
 * [00_modern_cpp_course_outline](00_modern_cpp_course_outline.key) Contains the outline slides.
