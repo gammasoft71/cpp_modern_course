@@ -78,4 +78,4 @@
   
 ## Remarks
 
-This course was inspired in part by [cpluspluscourse] (https://github.com/hsf-training/cpluspluscourse).
+This course was inspired in part by [cpluspluscourse](https://github.com/hsf-training/cpluspluscourse).
