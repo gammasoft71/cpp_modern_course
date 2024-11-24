@@ -12,3 +12,7 @@
 * [language_basics](language_basics) Containes Language basics pictures.
 * [os](os) Containes OS pictures.
 * [social_networks](social_networks) Containes Social Network pictures.
+
+## Remarks
+
+All images representing source code are created with [carbon](https://carbon.now.sh).
