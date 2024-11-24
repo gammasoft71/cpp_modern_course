@@ -4,4 +4,5 @@
 
 Contains exercises and solutions from this modern C++ course.
 
-* [01_functions](01_functions/README.md) Functions and how arguments are passed in C++
+* [environment](functions/README.md) Learn how to use CMake to generate a project.
+* [functions](functions/README.md) Functions and how arguments are passed in C++.
