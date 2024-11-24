@@ -9,5 +9,5 @@ if (MSVC)
 else()
    set( CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra" )
 endif()
-add_executable(${PROJECT_NAME} "structs.h" "structs.cpp" "functions.cpp")
+add_executable(${PROJECT_NAME} "structs.hpp" "structs.cpp" "functions.cpp")
 

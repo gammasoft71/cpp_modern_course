@@ -1,4 +1,4 @@
-#include "structs.h"
+#include "structs.hpp"
 
 #include <iostream>
 #include <chrono>
