@@ -14,7 +14,7 @@
 
 #include <iostream> // For printing
 
-#include "structs.h" // The data structs we will work with
+#include "structs.hpp" // The data structs we will work with
 
 void print_name(fast_to_copy argument) {
   std::cout << argument.name << '\n';
