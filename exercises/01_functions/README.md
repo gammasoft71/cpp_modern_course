@@ -9,7 +9,7 @@ We will try to work with it without copying it.
 ## Step 1
 
 Check out `functions.cpp`, compile it (`make`) and run the program.
-Check out `structs.h`. It defines two structs that we will work with : `fast_to_copy` and `slow_to_copy`.
+Check out `structs.hpp`. It defines two structs that we will work with : `fast_to_copy` and `slow_to_copy`.
 They are exactly what their name says, so let's try to avoid copying the latter.
 
 ## Step 2
