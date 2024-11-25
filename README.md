@@ -28,7 +28,7 @@
 * [examples](examples/README.md) contains examples from the slides.
 * [exercises](exercises/README.md) contains exercises from the slides.
 
-## Outline
+## Course
 
 * [Modern C++ course full](course/pdfs/modern_cpp_course_full.pdf)
 
