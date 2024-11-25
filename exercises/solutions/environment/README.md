@@ -99,6 +99,6 @@ cmake --build . --config Debug
 ### Linux with Visual Studio Code :
 
 Launch Visual Studio Code.
-Select `File/Open Folder..` menu.
+Select `File/Open Folder...` menu.
 Select `environment ` folder and open it.
 Build and Run `environment ` project.
