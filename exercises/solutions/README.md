@@ -1,4 +1,4 @@
-# Exercises
+# Solutions
 
 ![logo](../../docs/pictures/logo.png)
 
