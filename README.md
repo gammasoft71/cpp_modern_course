@@ -34,13 +34,13 @@
 
 ## Outline
 
-* [Introduction](course/pdfs/01_modern_cpp_course_introduction.pdf)
+* [Introduction](course/pdfs/introduction.pdf)
   * What this course is?
   * History
   * Wy using C++?
   * References
   * C++ development tools
-* [Language basics](course/pdfs/02_modern_cpp_course_language_basics.pdf)
+* [Language basics](course/pdfs/language_basics.pdf)
   * Hello World
   * Core syntax and types
   * Arrays and Pointers
@@ -54,7 +54,7 @@
   * auto keyword
   * inline keyword
   * Assertions
-* [Object Oriented Programming (OOP)](course/pdfs/03_modern_cpp_course_object_oriented_programming.pdf)
+* [Object Oriented Programming (OOP)](course/pdfs/object_oriented_programming.pdf)
   * Objects and Classes
   * Inheritance
   * Constructors / Destructors
@@ -65,7 +65,7 @@
   * Opertor overloading
   * Function objets
   * Name Lookups
-* [Core Modern C++](course/pdfs/04_modern_cpp_course_core_modern_cpp.pdf)
+* [Core Modern C++](course/pdfs/core_modern_cpp.pdf)
   * Constness
   * Constant expressions
   * Exceptions
@@ -77,7 +77,7 @@
   * Ranges
   * RAII and Smart pointers
   * Initialization
-* [Modern C++ Expert](course/pdfs/05_modern_cpp_course_modern_cpp_expert.pdf)
+* [Modern C++ Expert](course/pdfs/modern_cpp_expert.pdf)
   * The <=> operator
   * Variadic templates
   * Perfect forwarding
@@ -85,6 +85,6 @@
   * Concepts
   * Modules
   * Coroutines
-* [Advanved Programming](course/pdfs/06_modern_cpp_course_advanced_programming.pdf)
+* [Advanved Programming](course/pdfs/advanced_programming.pdf)
   * Using CMake 
   * ...

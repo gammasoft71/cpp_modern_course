@@ -4,14 +4,14 @@
 
 Contains the PDF (Universal) files of Modern C++ course.
 
-* [modern_cpp_course_full](modern_cpp_course_full.pdf) Contains all slides.
-* [00_modern_cpp_course_outline](00_modern_cpp_course_outline.pdf) Contains the outline slides.
-* [01_modern_cpp_course_introduction](01_modern_cpp_course_introduction.pdf) Contains the "Introduction" slides.
-* [02_modern_cpp_course_language_basics](02_modern_cpp_course_language_basics.pdf) Contains the "Language Basics" slides.
-* [03_modern_cpp_course_object_oriented_programming](02_modern_cpp_course_language_basics.pdf) Contains the "Object Oriented Programming  (OOP)" slides.
-* [04_modern_cpp_course_core_modern_cpp](02_modern_cpp_course_language_basics.pdf) Contains the language "Core Modern C++" slides.
-* [05_modern_cpp_course_modern_cpp_expert](05_modern_cpp_course_modern_cpp_expert.pdf) Contains the "Modern C++ Expert" slides.
-* [06_modern_cpp_course_advanced_programming](06_modern_cpp_course_advanced_programming.pdf) Contains the "Modern C++ Expert" slides.
+* [Modern C++ Course (full)](modern_cpp_course_full.pdf) Contains `Modern C++ course (full)` slides.
+* [Outline](outline.pdf) Contains the `Outline` slides.
+* [Introduction](introduction.pdf) Contains the `Introduction` slides.
+* [Language basics](language_basics.pdf) Contains the `Language Basics` slides.
+* [Object Oriented Programming (OOP)](object_oriented_programming.pdf) Contains the `Object Oriented Programming (OOP)` slides.
+* [Core Modern C++](core_modern_cpp.pdf) Contains the language `Core Modern C++` slides.
+* [Modern C++ Expert](modern_cpp_expert.pdf) Contains the `Modern C++ Expert` slides.
+* [Advanced programming](advanced_programming.pdf) Contains the `Advanced programming` slides.
 
 > **Warning**
 >
