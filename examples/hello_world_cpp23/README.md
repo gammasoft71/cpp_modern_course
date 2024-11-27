@@ -1,6 +1,6 @@
-# 02_hello_world_cpp23
+# hello_world_cpp23
 
-The first classic application "Hello World" in C++23.
+Modern C++ course `hello_wolrd_cpp23` example.
 
 ## Source
 

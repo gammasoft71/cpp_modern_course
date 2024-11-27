@@ -1,6 +1,6 @@
-# 01_hello_world_cpp98
+# hello_world_cpp98
 
-The first classic application "Hello World" in C++98, C++11, C++14, C++17 and C++20.
+Modern C++ course `hello_world_cpp98` example.
 
 ## Source
 
