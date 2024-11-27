@@ -17,5 +17,5 @@ std::string name();
 int add(int value_a, int value_b);
  
 int main() {
-  std::cout << "comments" << std::endl;
+  std::cout << "Comments" << std::endl;
 }

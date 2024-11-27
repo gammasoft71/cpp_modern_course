@@ -14,5 +14,5 @@ unsigned long long ull = 17ull;      // min 64 bit unsigned integer
 unsigned long long int ulli = 18ull; // int is optional
 
 int main() {
-  std::cout << "basic_types_2" << std::endl;
+  std::cout << "Basic types 2" << std::endl;
 }

@@ -16,5 +16,5 @@ unsigned short int usi = 7; // min 16 bit unsigned integer
 unsigned short us = 8;      // int is optional
 
 int main() {
-  std::cout << "basic_types" << std::endl;
+  std::cout << "Basic types" << std::endl;
 }

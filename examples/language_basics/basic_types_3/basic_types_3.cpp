@@ -9,5 +9,5 @@ const char* nstr = "native string"; // array of chars ended by \0
 std::string str = "string";         // class provided by the std
 
 int main() {
-  std::cout << "basic_types_3" << std::endl;
+  std::cout << "Basic types 3" << std::endl;
 }
