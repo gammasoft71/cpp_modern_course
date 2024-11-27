@@ -1,6 +1,6 @@
 # Language basics examples
 
-![logo](../docs/pictures/logo.png)
+![logo](../../docs/pictures/logo.png)
 
 Contains Modern C++ course language basics examples.
 
