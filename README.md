@@ -30,7 +30,7 @@
 
 ## Course
 
-* [Modern C++ course full](https://raw.github.com/gammasoft71/modern_cpp_course/blob/main/course/pdfs/modern_cpp_course_full.pdf)
+* [Modern C++ course full](https://github.com/gammasoft71/modern_cpp_course/blob/main/course/pdfs/modern_cpp_course_full.pdf)
 
 ## Outline
 
