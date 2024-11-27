@@ -2,6 +2,8 @@
 
 Modern C++ course `floating_point_literals` example.
 
+![floating_point_literals](../../../docs/pictures/language_basics/floating_point_literals.png)
+
 ## Source
 
 [floating_point_literals.cpp](floating_point_literals.cpp)

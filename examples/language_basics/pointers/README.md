@@ -2,6 +2,8 @@
 
 Modern C++ course `pointers` example.
 
+![pointers](../../../docs/pictures/language_basics/pointers.png)
+
 ## Source
 
 [pointers.cpp](pointers.cpp)

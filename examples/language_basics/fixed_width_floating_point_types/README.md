@@ -2,6 +2,8 @@
 
 Modern C++ course `fixed_width_floating_point_types` example.
 
+![fixed_width_floating_point_types](../../../docs/pictures/language_basics/fixed_width_floating_point_types.png)
+
 ## Source
 
 [fixed_width_floating_point_types.cpp](fixed_width_floating_point_types.cpp)

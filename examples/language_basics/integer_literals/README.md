@@ -2,6 +2,8 @@
 
 Modern C++ course `integer_literals` example.
 
+![integer_literals](../../../docs/pictures/language_basics/integer_literals.png)
+
 ## Source
 
 [integer_literals.cpp](integer_literals.cpp)

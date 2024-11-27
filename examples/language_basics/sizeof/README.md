@@ -2,6 +2,8 @@
 
 Modern C++ course `sizeof` example.
 
+![sizeof](../../../docs/pictures/language_basics/sizeof.png)
+
 ## Source
 
 [sizeof.cpp](sizeof.cpp)

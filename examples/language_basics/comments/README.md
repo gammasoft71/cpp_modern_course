@@ -2,6 +2,8 @@
 
 Modern C++ course `commants` example.
 
+![comments](../../../docs/pictures/language_basics/comments.png)
+
 ## Source
 
 [comments.cpp](comments.cpp)

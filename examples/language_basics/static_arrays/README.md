@@ -2,6 +2,8 @@
 
 Modern C++ course `static_arrays` example.
 
+![static_arrays](../../../docs/pictures/language_basics/static_arrays.png)
+
 ## Source
 
 [static_arrays.cpp](static_arrays.cpp)

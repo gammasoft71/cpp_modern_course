@@ -2,6 +2,8 @@
 
 Modern C++ course `pointer_to_integer` example.
 
+![pointer_to_integer](../../../docs/pictures/language_basics/pointer_to_integer.png)
+
 ## Source
 
 [pointer_to_integer.cpp](pointer_to_integer.cpp)

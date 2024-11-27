@@ -2,6 +2,8 @@
 
 Modern C++ course `hello_wolrd_cpp23` example.
 
+![hello_world_cpp23](../../../docs/pictures/language_basics/hello_world_cpp23.png)
+
 ## Source
 
 [hello_world.cpp](hello_world.cpp)
