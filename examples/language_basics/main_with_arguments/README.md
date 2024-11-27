@@ -2,6 +2,8 @@
 
 Modern C++ course `main_with_arguments` example.
 
+![main_with_arguments](../../../docs/pictures/language_basics/main_with_arguments.png)
+
 ## Source
 
 [main.cpp](main_with_arguments.cpp)

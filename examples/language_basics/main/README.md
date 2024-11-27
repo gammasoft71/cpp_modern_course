@@ -2,6 +2,8 @@
 
 Modern C++ course `main` example.
 
+![main](../../../docs/pictures/language_basics/main.png)
+
 ## Source
 
 [main.cpp](main.cpp)

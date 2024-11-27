@@ -2,6 +2,8 @@
 
 Modern C++ course `basic_types` example.
 
+![basic_types](../../../docs/pictures/language_basics/basic_types.png)
+
 ## Source
 
 [basic_types.cpp](basic_types.cpp)
