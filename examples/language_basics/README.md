@@ -47,3 +47,4 @@ Contains Modern C++ course language basics examples.
 * [more_concrete_example](more_concrete_example/README.md) Modern C++ course `More concrete example` example.
 * [typedef_and_using_typedef](typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
 * [typedef_and_using_using](typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
+* [references](references/README.md) Modern C++ course `References` example.
