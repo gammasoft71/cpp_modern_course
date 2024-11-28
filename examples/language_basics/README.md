@@ -25,4 +25,4 @@ Contains Modern C++ course language basics examples.
 * [dynamic_arrays_using_cpp](dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
 * [scope](scope/README.md) Modern C++ course `Scope` example.
 * [scope_and_lifetime_of_variables](scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
-* [namespaces](scope/README.md) Modern C++ course `Namespaces` example.
+* [namespaces](namespaces/README.md) Modern C++ course `Namespaces` example.
