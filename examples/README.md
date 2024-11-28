@@ -28,3 +28,9 @@ Contains Modern C++ course examples.
 * [scope](language_basics/scope/README.md) Modern C++ course `Scope` example.
 * [scope_and_lifetime_of_variables](language_basics/scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
 * [namespaces](language_basics/namespaces/README.md) Modern C++ course `Namespaces` example.
+* [nested_namespace_cpp98](language_basics/nested_namespace_cpp98/README.md) Modern C++ course `Nested namespace C++98` example.
+* [nested_namespace_cpp17](language_basics/nested_namespace_cpp17/README.md) Modern C++ course `Nested namespace C++17` example.
+* [namespace_alias_very_long_namespace](language_basics/namespace_alias_very_long_namespace/README.md) Modern C++ course `Namespace alias: very long namespace` example.
+* [namespace_alias_very_long_namespace_alias](language_basics/namespace_alias_very_long_namespace_alias/README.md) Modern C++ course `Namespace alias: very long namespace alias` example.
+* [namespace_alias_nested_namespaces](language_basics/namespace_alias_nested_namespaces/README.md) Modern C++ course `Namespace alias: nested namespaces` example.
+* [namespace_alias_nested_namespaces_alias](language_basics/namespace_alias_nested_namespaces_alias/README.md) Modern C++ course `Namespace alias: nested namespaces alias` example.
