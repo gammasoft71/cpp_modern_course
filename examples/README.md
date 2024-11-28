@@ -40,3 +40,10 @@ Contains Modern C++ course examples.
 * [using_namepsace_directive_with_partial_nested_namepsaces](language_basics/using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
 * [anonymous_namespace](language_basics/anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
 * [anonymous_namespace_static](language_basics/anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
+* [struct](language_basics/struct/README.md) Modern C++ course `Struct` example.
+* [union](language_basics/union/README.md) Modern C++ course `Union` example.
+* [enum](language_basics/enum/README.md) Modern C++ course `Enum` example.
+* [enum_with_underlying_type](language_basics/enum_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
+* [enum_class](language_basics/enum_class/README.md) Modern C++ course `Enum` example.
+* [enum_class_with_underlying_type](language_basics/enum_class_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
+* [more_concrete_example](language_basics/more_concrete_example/README.md) Modern C++ course `More concrete example` example.
