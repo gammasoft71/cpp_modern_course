@@ -22,3 +22,9 @@ Contains Modern C++ course examples.
 * [pointer_to_integer](language_basics/pointer_to_integer/README.md) Modern C++ course `Pointer to integer` example.
 * [static_arrays](language_basics/static_arrays/README.md) Modern C++ course `Static arrays` example.
 * [pointers](language_basics/pointers/README.md) Modern C++ course `Pointers` example.
+* [nullptr](language_basics/nullptr/README.md) Modern C++ course `nullptr` example.
+* [dynamic_arrays_using_c](language_basics/dynamic_arrays_using_c/README.md) Modern C++ course `Dynamic arrays using C` example.
+* [dynamic_arrays_using_cpp](language_basics/dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
+* [scope](language_basics/scope/README.md) Modern C++ course `Scope` example.
+* [scope_and_lifetime_of_variables](language_basics/scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
+* [namespaces](language_basics/scope/README.md) Modern C++ course `Namespaces` example.
