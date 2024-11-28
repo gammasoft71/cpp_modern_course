@@ -34,3 +34,9 @@ Contains Modern C++ course examples.
 * [namespace_alias_very_long_namespace_alias](language_basics/namespace_alias_very_long_namespace_alias/README.md) Modern C++ course `Namespace alias: very long namespace alias` example.
 * [namespace_alias_nested_namespaces](language_basics/namespace_alias_nested_namespaces/README.md) Modern C++ course `Namespace alias: nested namespaces` example.
 * [namespace_alias_nested_namespaces_alias](language_basics/namespace_alias_nested_namespaces_alias/README.md) Modern C++ course `Namespace alias: nested namespaces alias` example.
+* [using_namepsace_directive](language_basics/using_namepsace_directive/README.md) Modern C++ course `Using namepsace directive` example.
+* [using_namepsace_directive_with_namepsace](language_basics/using_namepsace_directive_with_namepsace/README.md) Modern C++ course `Using namepsace directive with namepsace` example.
+* [using_namepsace_directive_with_nested_namepsaces](language_basics/using_namepsace_directive_with_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with nested namepsaces` example.
+* [using_namepsace_directive_with_partial_nested_namepsaces](language_basics/using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
+* [anonymous_namespace](language_basics/anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
+* [anonymous_namespace_static](language_basics/anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
