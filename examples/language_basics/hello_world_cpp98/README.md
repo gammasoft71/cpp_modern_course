@@ -2,7 +2,7 @@
 
 Modern C++ course `hello_world_cpp98` example.
 
-![hello_world_cpp98](../../../docs/pictures/language_basics/hello_world_cpp98.png)
+![hello_world_source_cpp98](../../../docs/pictures/language_basics/hello_world_source_cpp98.png)
 
 ## Source
 
