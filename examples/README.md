@@ -47,3 +47,5 @@ Contains Modern C++ course examples.
 * [enum_class](language_basics/enum_class/README.md) Modern C++ course `Enum` example.
 * [enum_class_with_underlying_type](language_basics/enum_class_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
 * [more_concrete_example](language_basics/more_concrete_example/README.md) Modern C++ course `More concrete example` example.
+* [typedef_and_using_typedef](language_basics/typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
+* [typedef_and_using_using](language_basics/typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
