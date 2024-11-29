@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(functions_and_references_to_returned_values)
+add_executable(${PROJECT_NAME} functions_and_references_to_returned_values.cpp)
