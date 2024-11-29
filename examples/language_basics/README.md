@@ -62,3 +62,8 @@ Contains Modern C++ course language basics examples.
 * [overloading](overloading/README.md) Modern C++ course `Overloading` example.
 * [function_good_practices](function_good_practices/README.md) Modern C++ course `Good practices` example.
 * [function_good_practices_do_not_everything_in_one_long_function](function_good_practices_do_not_everything_in_one_long_function/README.md) Modern C++ course `Good practices - Don’t! Everything in one long function` example.
+* [binary_and_assignment_operators](binary_and_assignment_operators/README.md) Modern C++ course `Binary and assignment operators` example.
+* [increment_decrement_operators](increment_decrement_operators/README.md) Modern C++ course `Increment / Decrement operators` example.
+* [bitwise_and_assignemnt_operators](bitwise_and_assignemnt_operators/README.md) Modern C++ course `Bitwise and Assignemnt operators` example.
+* [logical_operators](logical_operators/README.md) Modern C++ course `Logical operators` example.
+* [comparison_operators](comparison_operators/README.md) Modern C++ course `Comparison operators` example.
