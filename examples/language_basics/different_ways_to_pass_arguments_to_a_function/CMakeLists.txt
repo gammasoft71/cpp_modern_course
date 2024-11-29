@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(different_ways_to_pass_arguments_to_a_function)
+add_executable(${PROJECT_NAME} different_ways_to_pass_arguments_to_a_function.cpp)

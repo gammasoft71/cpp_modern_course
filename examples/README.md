@@ -59,3 +59,8 @@ Contains Modern C++ course examples.
 * [function_with_default_arguments](language_basics/function_with_default_arguments/README.md) Modern C++ course `Function with default arguments` example.
 * [functions_and_references_to_returned_values](language_basics/functions_and_references_to_returned_values/README.md) Modern C++ course `Functions and references to returned values` example.
 * [paramters_are_passed_by_value](language_basics/paramters_are_passed_by_value/README.md) Modern C++ course `Paramters are passed by value` example.
+* [pass_by_value_or_reference](language_basics/pass_by_value_or_reference/README.md) Modern C++ course `Pass by value or reference` example.
+* [different_ways_to_pass_arguments_to_a_function](language_basics/different_ways_to_pass_arguments_to_a_function/README.md) Modern C++ course `Different ways to pass arguments to a function` example.
+* [overloading](language_basics/overloading/README.md) Modern C++ course `Overloading` example.
+* [function_good_practices](language_basics/function_good_practices/README.md) Modern C++ course `Good practices` example.
+* [function_good_practices_do_not_everything_in_one_long_function](language_basics/function_good_practices_do_not_everything_in_one_long_function/README.md) Modern C++ course `Good practices - Don’t! Everything in one long function` example.

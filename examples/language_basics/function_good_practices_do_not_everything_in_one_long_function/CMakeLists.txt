@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(function_good_practices_do_not_everything_in_one_long_function)
+add_executable(${PROJECT_NAME} function_good_practices_do_not_everything_in_one_long_function.cpp)
