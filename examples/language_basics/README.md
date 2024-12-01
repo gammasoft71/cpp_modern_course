@@ -67,3 +67,20 @@ Contains Modern C++ course language basics examples.
 * [bitwise_and_assignemnt_operators](bitwise_and_assignemnt_operators/README.md) Modern C++ course `Bitwise and Assignemnt operators` example.
 * [logical_operators](logical_operators/README.md) Modern C++ course `Logical operators` example.
 * [comparison_operators](comparison_operators/README.md) Modern C++ course `Comparison operators` example.
+* [operator_precedences](operator_precedences/README.md) Modern C++ course `Operator precedences` example.
+* [if_syntax](if_syntax/README.md) Modern C++ course `if syntax` example.
+* [if_example](if_example/README.md) Modern C++ course `if example` example.
+* [conditional_operator_syntax](conditional_operator_syntax/README.md) Modern C++ course `Conditional operator - syntax` example.
+* [conditional_operator_example](conditional_operator_example/README.md) Modern C++ course `Conditional operator - example` example.
+* [conditional_operator_best_practice](conditional_operator_best_practice/README.md) Modern C++ course `Conditional operator - best practice` example.
+* [switch_syntax](switch_syntax/README.md) Modern C++ course `swicth syntax` example.
+* [switch_example](switch_example/README.md) Modern C++ course `switch example` example.
+* [fallthrough_attribute](fallthrough_attribute/README.md) Modern C++ course `[[fallthrough]] attribute` example.
+* [init_statement_for_if_and_switch](init_statement_for_if_and_switch/README.md) Modern C++ course `Init statement for if and switch` example.
+* [init_statement_for_if_and_switch_variable_declaration_as_condition](init_statement_for_if_and_switch_variable_declaration_as_condition/README.md) Modern C++ course `Init statement for if and switch: variable_ declaration as condition` example.
+* [for_loop_syntax](for_loop_syntax/README.md) Modern C++ course `for loop syntax` example.
+* [for_loop_example](for_loop_example/README.md) Modern C++ course `for loop example` example.
+* [range_based_loop_syntax](range_based_loop_syntax/README.md) Modern C++ course `Range-based loop - syntax` example.
+* [range_based_loop_example](range_based_loop_example/README.md) Modern C++ course `Range-based loop - example` example.
+* [init_statements_for_range_based_loop](init_statements_for_range_based_loop/README.md) Modern C++ course `Init statements for range-based loop` example.
+* [headers_and_interces_print_hello](headers_and_interces_print_hello/README.md) Modern C++ course `Headers and interces` example.

@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(init_statement_for_if_and_switch_variable_declaration_as_condition)
+add_executable(${PROJECT_NAME} init_statement_for_if_and_switch_variable_declaration_as_condition.cpp)
