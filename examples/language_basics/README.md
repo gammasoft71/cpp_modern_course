@@ -4,10 +4,15 @@
 
 Contains Modern C++ course language basics examples.
 
+## Hello World
+
 * [hello_world_cpp98](hello_world_cpp98/README.md) Modern C++ course `Hello world C++98` example.
 * [hello_world_cpp23](hello_world_cpp23/README.md) Modern C++ course `hello World C++23` example.
 * [main](main/README.md) Modern C++ course `Main function` example.
 * [main_with_arguments](main_with_arguments/README.md) Modern C++ course `Main function with arguments` example.
+
+## Core syntax and types
+
 * [comments](comments/README.md) Modern C++ course `Comments` example.
 * [basic_types](basic_types/README.md) Modern C++ course `basic types` example.
 * [basic_types_2](basic_types_2/README.md) Modern C++ course `Basic types 2` example.
@@ -23,6 +28,9 @@ Contains Modern C++ course language basics examples.
 * [nullptr](nullptr/README.md) Modern C++ course `nullptr` example.
 * [dynamic_arrays_using_c](dynamic_arrays_using_c/README.md) Modern C++ course `Dynamic arrays using C` example.
 * [dynamic_arrays_using_cpp](dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
+
+## Scopes / namespaces
+
 * [scope](scope/README.md) Modern C++ course `Scope` example.
 * [scope_and_lifetime_of_variables](scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
 * [namespaces](namespaces/README.md) Modern C++ course `Namespaces` example.
@@ -38,6 +46,9 @@ Contains Modern C++ course language basics examples.
 * [using_namepsace_directive_with_partial_nested_namepsaces](using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
 * [anonymous_namespace](anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
 * [anonymous_namespace_static](anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
+
+## Class and enum types
+
 * [struct](struct/README.md) Modern C++ course `Struct` example.
 * [union](union/README.md) Modern C++ course `Union` example.
 * [enum](enum/README.md) Modern C++ course `Enum` example.
@@ -47,7 +58,13 @@ Contains Modern C++ course language basics examples.
 * [more_concrete_example](more_concrete_example/README.md) Modern C++ course `More concrete example` example.
 * [typedef_and_using_typedef](typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
 * [typedef_and_using_using](typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
+
+## References
+
 * [references](references/README.md) Modern C++ course `References` example.
+
+## Functions
+
 * [function_without_param_and_no_return](function_without_param_and_no_return/README.md) Modern C++ course `Function without param and no return` example.
 * [function_without_param_and_return](function_without_param_and_return/README.md) Modern C++ course `Function without param and return` example.
 * [function_with_param_and_no_return](function_with_param_and_no_return/README.md) Modern C++ course `Function with param and no return` example.
@@ -62,12 +79,18 @@ Contains Modern C++ course language basics examples.
 * [overloading](overloading/README.md) Modern C++ course `Overloading` example.
 * [function_good_practices](function_good_practices/README.md) Modern C++ course `Good practices` example.
 * [function_good_practices_do_not_everything_in_one_long_function](function_good_practices_do_not_everything_in_one_long_function/README.md) Modern C++ course `Good practices - Don’t! Everything in one long function` example.
+
+## Operators
+
 * [binary_and_assignment_operators](binary_and_assignment_operators/README.md) Modern C++ course `Binary and assignment operators` example.
 * [increment_decrement_operators](increment_decrement_operators/README.md) Modern C++ course `Increment / Decrement operators` example.
 * [bitwise_and_assignemnt_operators](bitwise_and_assignemnt_operators/README.md) Modern C++ course `Bitwise and Assignemnt operators` example.
 * [logical_operators](logical_operators/README.md) Modern C++ course `Logical operators` example.
 * [comparison_operators](comparison_operators/README.md) Modern C++ course `Comparison operators` example.
 * [operator_precedences](operator_precedences/README.md) Modern C++ course `Operator precedences` example.
+
+## Control structures
+
 * [if_syntax](if_syntax/README.md) Modern C++ course `if syntax` example.
 * [if_example](if_example/README.md) Modern C++ course `if example` example.
 * [conditional_operator_syntax](conditional_operator_syntax/README.md) Modern C++ course `Conditional operator - syntax` example.
@@ -91,6 +114,15 @@ Contains Modern C++ course language basics examples.
 * [jump_statement_return](jump_statement_return/README.md) Modern C++ course `Jump statement - return` example.
 * [jump_statement_return_2](jump_statement_return_2/README.md) Modern C++ course `Jump statement - return` example.
 * [jump_statement_goto](jump_statement_goto/README.md) Modern C++ course `Jump statement - goto` example.
+
+## Headers and interfaces
+
 * [headers_and_interces_print_hello](headers_and_interces_print_hello/README.md) Modern C++ course `Headers and interces` example.
 * [preprocessor_constant_macro](headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
 * [preprocessor_function_like_macro](preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
+
+## auto keyword
+
+## inline keyword
+
+## Assertions

@@ -4,12 +4,17 @@
 
 Contains Modern C++ course examples.
 
-[language basics](language_basics/README.md)
+## [language basics](language_basics/README.md)
+
+### Hello World
 
 * [hello_world_cpp98](language_basics/hello_world_cpp98/README.md) Modern C++ course `hello_world_cpp98` example.
 * [hello_world_cpp23](language_basics/hello_world_cpp23/README.md) Modern C++ course `hello_world_cpp23` example.
 * [main](language_basics/main/README.md) Modern C++ course `main` example.
 * [main_with_arguments](language_basics/main_with_arguments/README.md) Modern C++ course `main_with_arguments` example.
+
+### Core syntax and types
+
 * [comment](language_basics/comment/README.md) Modern C++ course `comment` example.
 * [basic_types](language_basics/basic_types/README.md) Modern C++ course `basic_types` example.
 * [basic_types_2](language_basics/basic_types_2/README.md) Modern C++ course `basic_types_2` example.
@@ -25,6 +30,9 @@ Contains Modern C++ course examples.
 * [nullptr](language_basics/nullptr/README.md) Modern C++ course `nullptr` example.
 * [dynamic_arrays_using_c](language_basics/dynamic_arrays_using_c/README.md) Modern C++ course `Dynamic arrays using C` example.
 * [dynamic_arrays_using_cpp](language_basics/dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
+
+### Scopes / namespaces
+
 * [scope](language_basics/scope/README.md) Modern C++ course `Scope` example.
 * [scope_and_lifetime_of_variables](language_basics/scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
 * [namespaces](language_basics/namespaces/README.md) Modern C++ course `Namespaces` example.
@@ -40,6 +48,9 @@ Contains Modern C++ course examples.
 * [using_namepsace_directive_with_partial_nested_namepsaces](language_basics/using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
 * [anonymous_namespace](language_basics/anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
 * [anonymous_namespace_static](language_basics/anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
+
+### Class and enum types
+
 * [struct](language_basics/struct/README.md) Modern C++ course `Struct` example.
 * [union](language_basics/union/README.md) Modern C++ course `Union` example.
 * [enum](language_basics/enum/README.md) Modern C++ course `Enum` example.
@@ -49,7 +60,13 @@ Contains Modern C++ course examples.
 * [more_concrete_example](language_basics/more_concrete_example/README.md) Modern C++ course `More concrete example` example.
 * [typedef_and_using_typedef](language_basics/typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
 * [typedef_and_using_using](language_basics/typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
+
+### References
+
 * [references](language_basics/references/README.md) Modern C++ course `References` example.
+
+### Functions
+
 * [function_without_param_and_no_return](language_basics/function_without_param_and_no_return/README.md) Modern C++ course `Function without param and no return` example.
 * [function_without_param_and_return](language_basics/function_without_param_and_return/README.md) Modern C++ course `Function without param and return` example.
 * [function_with_param_and_no_return](language_basics/function_with_param_and_no_return/README.md) Modern C++ course `Function with param and no return` example.
@@ -64,12 +81,18 @@ Contains Modern C++ course examples.
 * [overloading](language_basics/overloading/README.md) Modern C++ course `Overloading` example.
 * [function_good_practices](language_basics/function_good_practices/README.md) Modern C++ course `Good practices` example.
 * [function_good_practices_do_not_everything_in_one_long_function](language_basics/function_good_practices_do_not_everything_in_one_long_function/README.md) Modern C++ course `Good practices - Don’t! Everything in one long function` example.
+
+### Operators
+
 * [binary_and_assignment_operators](language_basics/binary_and_assignment_operators/README.md) Modern C++ course `Binary and assignment operators` example.
 * [increment_decrement_operators](language_basics/increment_decrement_operators/README.md) Modern C++ course `Increment / Decrement operators` example.
 * [bitwise_and_assignemnt_operators](language_basics/bitwise_and_assignemnt_operators/README.md) Modern C++ course `Bitwise and Assignemnt operators` example.
 * [logical_operators](language_basics/logical_operators/README.md) Modern C++ course `Logical operators` example.
 * [comparison_operators](language_basics/comparison_operators/README.md) Modern C++ course `Comparison operators` example.
 * [operator_precedences](language_basics/operator_precedences/README.md) Modern C++ course `Operator precedences` example.
+
+### Control structures
+
 * [if_syntax](language_basics/if_syntax/README.md) Modern C++ course `if syntax` example.
 * [if_example](language_basics/if_example/README.md) Modern C++ course `if example` example.
 * [conditional_operator_syntax](language_basics/conditional_operator_syntax/README.md) Modern C++ course `Conditional operator - syntax` example.
@@ -93,6 +116,15 @@ Contains Modern C++ course examples.
 * [jump_statement_return](language_basics/jump_statement_return/README.md) Modern C++ course `Jump statement - return` example.
 * [jump_statement_return_2](language_basics/jump_statement_return_2/README.md) Modern C++ course `Jump statement - return` example.
 * [jump_statement_goto](language_basics/jump_statement_goto/README.md) Modern C++ course `Jump statement - goto` example.
+
+### Headers and interfaces
+
 * [headers_and_interces_print_hello](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Headers and interces` example.
 * [preprocessor_constant_macro](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
 * [preprocessor_function_like_macro](language_basics/preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
+
+### auto keyword
+
+### inline keyword
+
+### Assertions
