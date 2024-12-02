@@ -85,4 +85,14 @@ Contains Modern C++ course examples.
 * [range_based_loop_syntax](language_basics/range_based_loop_syntax/README.md) Modern C++ course `Range-based loop - syntax` example.
 * [range_based_loop_example](language_basics/range_based_loop_example/README.md) Modern C++ course `Range-based loop - example` example.
 * [init_statements_for_range_based_loop](language_basics/init_statements_for_range_based_loop/README.md) Modern C++ course `Init statements for range-based loop` example.
+* [while_loop_syntax](language_basics/while_loop_syntax/README.md) Modern C++ course `while loop - syntax` example.
+* [while_loop_example](language_basics/while_loop_example/README.md) Modern C++ course `while loop - example` example.
+* [while_loop_example_2](language_basics/while_loop_example_2/README.md) Modern C++ course `while loop - example` example.
+* [jump_statement_break](language_basics/jump_statement_break/README.md) Modern C++ course `Jump statement - break` example.
+* [jump_statement_continue](language_basics/jump_statement_continue/README.md) Modern C++ course `Jump statement - continue` example.
+* [jump_statement_return](language_basics/jump_statement_return/README.md) Modern C++ course `Jump statement - return` example.
+* [jump_statement_return_2](language_basics/jump_statement_return_2/README.md) Modern C++ course `Jump statement - return` example.
+* [jump_statement_goto](language_basics/jump_statement_goto/README.md) Modern C++ course `Jump statement - goto` example.
 * [headers_and_interces_print_hello](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Headers and interces` example.
+* [preprocessor_constant_macro](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
+* [preprocessor_function_like_macro](language_basics/preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
