@@ -47,7 +47,7 @@ Contains Modern C++ course language basics examples.
 * [anonymous_namespace](anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
 * [anonymous_namespace_static](anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
 
-## Class and enum types
+## Struct and enum types
 
 * [struct](struct/README.md) Modern C++ course `Struct` example.
 * [union](union/README.md) Modern C++ course `Union` example.

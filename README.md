@@ -45,7 +45,7 @@
   * Core syntax and types
   * Arrays and Pointers
   * Scopes / namespaces
-  * Class and enum types
+  * Struct and enum types
   * References
   * Functions
   * Operators
