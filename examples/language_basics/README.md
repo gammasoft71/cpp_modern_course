@@ -120,6 +120,7 @@ Contains Modern C++ course language basics examples.
 * [headers_and_interfaces_print_hello](headers_and_interfaces_print_hello/README.md) Modern C++ course `Headers and interfaces` example.
 * [preprocessor_constant_macro](headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
 * [preprocessor_function_like_macro](preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
+* [preprocessor_check](preprocessor_check/README.md) Modern C++ course `Preprocessor - constant checks` example.
 
 ## auto keyword
 
