@@ -3,15 +3,17 @@
 Modern C++ course `headers_and_interfaces_print_hello` example.
 
 ![headers_and_interfaces_print_hello_hpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_hpp.png)
+
 ![headers_and_interfaces_print_hello_cpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_cpp.png)
-![headers_and_interfaces_main_cpp](../../../docs/pictures/language_basics/headers_and_interfaces_main_cpp.png)
+
+![headers_and_interfaces_print_hello_main_cpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_main_cpp.png)
 
 ## Source
 
-[print_hello.hpp](print_hello.hpp)
-[print_hello.cpp](print_hello.cpp)
-[main.cpp](main.cpp)
-[CMakeLists.txt](CMakeLists.txt)
+* [print_hello.hpp](print_hello.hpp)
+* [print_hello.cpp](print_hello.cpp)
+* [main.cpp](main.cpp)
+* [CMakeLists.txt](CMakeLists.txt)
 
 ## Output
 
