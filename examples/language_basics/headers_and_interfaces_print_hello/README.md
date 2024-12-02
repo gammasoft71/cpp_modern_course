@@ -9,7 +9,6 @@ Modern C++ course `headers_and_interfaces_print_hello` example.
 [print_hello.hpp](print_hello.hpp)
 [print_hello.cpp](print_hello.cpp)
 [main.cpp](main.cpp)
-
 [CMakeLists.txt](CMakeLists.txt)
 
 ## Output

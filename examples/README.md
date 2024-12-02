@@ -119,7 +119,7 @@ Contains Modern C++ course examples.
 
 ### Headers and interfaces
 
-* [headers_and_interces_print_hello](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Headers and interces` example.
+* [headers_and_interfaces_print_hello](language_basics/headers_and_interfaces_print_hello/README.md) Modern C++ course `Headers and interfaces` example.
 * [preprocessor_constant_macro](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
 * [preprocessor_function_like_macro](language_basics/preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
 
