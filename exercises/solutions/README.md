@@ -4,7 +4,7 @@
 
 Contains solutions from this modern C++ course.
 
-## language basics
+## Language basics
 
 * [environment](environment/README.md) Learn how to use CMake to generate a project.
 * [functions](functions/README.md) Functions and how arguments are passed in C++.

@@ -4,7 +4,7 @@
 
 Contains Modern C++ course examples.
 
-## [language basics](language_basics/README.md)
+## [Language basics](language_basics/README.md)
 
 ### Hello World
 
