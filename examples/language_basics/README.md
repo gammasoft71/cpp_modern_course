@@ -134,11 +134,11 @@ Contains Modern C++ course language basics examples.
 * [auto_for_range_loop_with_auto](auto_keyword/auto_for_range_loop_with_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
 * [auto_always_initialized](auto_keyword/auto_always_initialized/README.md) Modern C++ course `auto keyword - Always initialized` example.
 
-## inline keyword
+## [inline keyword](inline_keyword/README.md)
 
-* [inline_keyword](inline_keyword/README.md) Modern C++ course `inline keyword - inline function` example.
-* [inline_variables](inline_variables/README.md) Modern C++ course `inline keyword - inline variables` example.
+* [inline_keyword](inline_keyword/inline_keyword/README.md) Modern C++ course `inline keyword - inline function` example.
+* [inline_variables](inline_keyword/inline_variables/README.md) Modern C++ course `inline keyword - inline variables` example.
 
-## Assertions
+## [Assertions](assertions/README.md)
 
-* [assert](assert/README.md) Modern C++ course `Assertions - Checking invariants in a program` example.
+* [assert](assertions/assert/README.md) Modern C++ course `Assertions - Checking invariants in a program` example.

@@ -2,7 +2,8 @@
 
 Modern C++ course `inline_variables` example.
 
-![inline_variables](../../../docs/pictures/language_basics/inline_variables.png)
+![inline_variables](../../../../docs/pictures/language_basics/inline_variables_hpp.png)
+![inline_variables](../../../../docs/pictures/language_basics/inline_variables_cpp.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `assert` example.
 
-![assert](../../../docs/pictures/language_basics/assert.png)
+![assert](../../../../docs/pictures/language_basics/assert.png)
 
 ## Source
 
