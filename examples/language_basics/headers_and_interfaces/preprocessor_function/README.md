@@ -2,7 +2,7 @@
 
 Modern C++ course `preprocessor_function` example.
 
-![preprocessor_function](../../../docs/pictures/language_basics/preprocessor_function.png)
+![preprocessor_function](../../../../docs/pictures/language_basics/preprocessor_function.png)
 
 ## Source
 

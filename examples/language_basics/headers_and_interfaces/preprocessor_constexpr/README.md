@@ -2,7 +2,7 @@
 
 Modern C++ course `preprocessor_constexpr` example.
 
-![preprocessor_constexpr](../../../docs/pictures/language_basics/preprocessor_constexpr.png)
+![preprocessor_constexpr](../../../../docs/pictures/language_basics/preprocessor_constexpr.png)
 
 ## Source
 

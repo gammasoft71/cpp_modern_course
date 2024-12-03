@@ -2,7 +2,7 @@
 
 Modern C++ course `preprocessor_check` example.
 
-![preprocessor_check](../../../docs/pictures/language_basics/preprocessor_check.png)
+![preprocessor_check](../../../../docs/pictures/language_basics/preprocessor_check.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `header_include_guards` example.
 
-![header_include_guards](../../../docs/pictures/language_basics/header_include_guards.png)
+![header_include_guards](../../../../docs/pictures/language_basics/header_include_guards.png)
 
 ## Source
 

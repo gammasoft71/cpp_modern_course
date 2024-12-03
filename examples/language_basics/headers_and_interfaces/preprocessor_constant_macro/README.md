@@ -2,7 +2,7 @@
 
 Modern C++ course `preprocessor_constant_macro` example.
 
-![preprocessor_constant_macro](../../../docs/pictures/language_basics/preprocessor_constant_macro.png)
+![preprocessor_constant_macro](../../../../docs/pictures/language_basics/preprocessor_constant_macro.png)
 
 ## Source
 

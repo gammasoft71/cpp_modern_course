@@ -2,7 +2,7 @@
 
 Modern C++ course `preprocessor_function_like_macro` example.
 
-![preprocessor_function_like_macro](../../../docs/pictures/language_basics/preprocessor_function_like_macro.png)
+![preprocessor_function_like_macro](../../../../docs/pictures/language_basics/preprocessor_function_like_macro.png)
 
 ## Source
 

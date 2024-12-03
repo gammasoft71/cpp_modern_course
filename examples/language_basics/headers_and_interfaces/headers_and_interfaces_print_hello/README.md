@@ -2,11 +2,11 @@
 
 Modern C++ course `headers_and_interfaces_print_hello` example.
 
-![headers_and_interfaces_print_hello_hpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_hpp.png)
+![headers_and_interfaces_print_hello_hpp](../../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_hpp.png)
 
-![headers_and_interfaces_print_hello_cpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_cpp.png)
+![headers_and_interfaces_print_hello_cpp](../../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_cpp.png)
 
-![headers_and_interfaces_print_hello_main_cpp](../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_main_cpp.png)
+![headers_and_interfaces_print_hello_main_cpp](../../../../docs/pictures/language_basics/headers_and_interfaces_print_hello_main_cpp.png)
 
 ## Source
 
