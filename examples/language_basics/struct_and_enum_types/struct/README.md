@@ -2,7 +2,7 @@
 
 Modern C++ course `struct` example.
 
-![struct](../../../docs/pictures/language_basics/struct.png)
+![struct](../../../../docs/pictures/language_basics/struct.png)
 
 ## Source
 

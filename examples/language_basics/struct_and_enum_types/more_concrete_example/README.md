@@ -2,7 +2,7 @@
 
 Modern C++ course `more_concrete_example` example.
 
-![more_concrete_example](../../../docs/pictures/language_basics/more_concrete_example.png)
+![more_concrete_example](../../../../docs/pictures/language_basics/more_concrete_example.png)
 
 ## Source
 

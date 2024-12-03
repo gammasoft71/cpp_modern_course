@@ -2,7 +2,7 @@
 
 Modern C++ course `enum_with_underlying_type` example.
 
-![enum_with_underlying_type](../../../docs/pictures/language_basics/enum_with_underlying_type.png)
+![enum_with_underlying_type](../../../../docs/pictures/language_basics/enum_with_underlying_type.png)
 
 ## Source
 

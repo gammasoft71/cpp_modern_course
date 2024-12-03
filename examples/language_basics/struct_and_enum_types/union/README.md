@@ -2,7 +2,7 @@
 
 Modern C++ course `union` example.
 
-![union](../../../docs/pictures/language_basics/union.png)
+![union](../../../../docs/pictures/language_basics/union.png)
 
 ## Source
 

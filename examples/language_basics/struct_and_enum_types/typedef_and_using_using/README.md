@@ -2,7 +2,7 @@
 
 Modern C++ course `typedef_and_using_using` example.
 
-![typedef_and_using_using](../../../docs/pictures/language_basics/typedef_and_using_using.png)
+![typedef_and_using_using](../../../../docs/pictures/language_basics/typedef_and_using_using.png)
 
 ## Source
 

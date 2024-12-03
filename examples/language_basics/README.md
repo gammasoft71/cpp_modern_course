@@ -29,7 +29,7 @@ Contains Modern C++ course language basics examples.
 * [dynamic_arrays_using_c](core_syntax_and_types/dynamic_arrays_using_c/README.md) Modern C++ course `Dynamic arrays using C` example.
 * [dynamic_arrays_using_cpp](core_syntax_and_types/dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
 
-## [Scopes / namespaces](language_basics/scopes_namespaces/README.md)
+## [Scopes / namespaces](scopes_namespaces/README.md)
 
 * [scope](scopes_namespaces/scope/README.md) Modern C++ course `Scope` example.
 * [scope_and_lifetime_of_variables](scopes_namespaces/scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
@@ -47,23 +47,23 @@ Contains Modern C++ course language basics examples.
 * [anonymous_namespace](scopes_namespaces/anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
 * [anonymous_namespace_static](scopes_namespaces/ anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
 
-## Struct and enum types
+## [Struct and enum types](struct_and_enum_types/README.md)
 
-* [struct](struct/README.md) Modern C++ course `Struct` example.
-* [union](union/README.md) Modern C++ course `Union` example.
-* [enum](enum/README.md) Modern C++ course `Enum` example.
-* [enum_with_underlying_type](enum_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
-* [enum_class](enum_class/README.md) Modern C++ course `Enum` example.
-* [enum_class_with_underlying_type](enum_class_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
-* [more_concrete_example](more_concrete_example/README.md) Modern C++ course `More concrete example` example.
-* [typedef_and_using_typedef](typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
-* [typedef_and_using_using](typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
+* [struct](struct_and_enum_types/struct/README.md) Modern C++ course `Struct` example.
+* [union](struct_and_enum_types/union/README.md) Modern C++ course `Union` example.
+* [enum](struct_and_enum_types/enum/README.md) Modern C++ course `Enum` example.
+* [enum_with_underlying_type](struct_and_enum_types/enum_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
+* [enum_class](struct_and_enum_types/enum_class/README.md) Modern C++ course `Enum` example.
+* [enum_class_with_underlying_type](struct_and_enum_types/enum_class_with_underlying_type/README.md) Modern C++ course `Enum class with underlying type` example.
+* [more_concrete_example](struct_and_enum_types/more_concrete_example/README.md) Modern C++ course `More concrete example` example.
+* [typedef_and_using_typedef](struct_and_enum_types/typedef_and_using_typedef/README.md) Modern C++ course `typedef and using: typedef` example.
+* [typedef_and_using_using](struct_and_enum_types/typedef_and_using_using/README.md) Modern C++ course `typedef and using: using` example.
 
-## References
+## [References](references/README.md)
 
-* [references](references/README.md) Modern C++ course `References` example.
+* [references](references/references/README.md) Modern C++ course `References` example.
 
-## Functions
+## [Functions](functions/README.md)
 
 * [function_without_param_and_no_return](function_without_param_and_no_return/README.md) Modern C++ course `Function without param and no return` example.
 * [function_without_param_and_return](function_without_param_and_return/README.md) Modern C++ course `Function without param and return` example.

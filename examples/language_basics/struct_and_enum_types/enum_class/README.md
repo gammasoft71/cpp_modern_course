@@ -2,7 +2,7 @@
 
 Modern C++ course `enum_class` example.
 
-![enum_class](../../../docs/pictures/language_basics/enum_class.png)
+![enum_class](../../../../docs/pictures/language_basics/enum_class.png)
 
 ## Source
 
