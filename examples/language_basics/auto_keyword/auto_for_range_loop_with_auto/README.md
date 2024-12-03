@@ -2,7 +2,7 @@
 
 Modern C++ course `auto_for_range_loop_with_auto` example.
 
-![auto_for_range_loop_with_auto](../../../docs/pictures/language_basics/auto_for_range_loop_with_auto.png)
+![auto_for_range_loop_with_auto](../../../../docs/pictures/language_basics/auto_for_range_loop_with_auto.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `auto_always_initialized` example.
 
-![auto_always_initialized](../../../docs/pictures/language_basics/auto_always_initialized.png)
+![auto_always_initialized](../../../../docs/pictures/language_basics/auto_always_initialized.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `auto_declarations` example.
 
-![auto_declarations](../../../docs/pictures/language_basics/auto_declarations.png)
+![auto_declarations](../../../../docs/pictures/language_basics/auto_declarations.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `auto_without_auto` example.
 
-![auto_without_auto](../../../docs/pictures/language_basics/auto_without_auto.png)
+![auto_without_auto](../../../../docs/pictures/language_basics/auto_without_auto.png)
 
 ## Source
 

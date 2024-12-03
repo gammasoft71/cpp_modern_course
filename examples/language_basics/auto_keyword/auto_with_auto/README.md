@@ -2,7 +2,7 @@
 
 Modern C++ course `auto_with_auto` example.
 
-![auto_with_auto](../../../docs/pictures/language_basics/auto_with_auto.png)
+![auto_with_auto](../../../../docs/pictures/language_basics/auto_with_auto.png)
 
 ## Source
 

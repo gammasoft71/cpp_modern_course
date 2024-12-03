@@ -125,14 +125,14 @@ Contains Modern C++ course language basics examples.
 * [preprocessor_function](headers_and_interfaces/preprocessor_function/README.md) Modern C++ course `Preprocessor - function` example.
 * [header_include_guards](headers_and_interfaces/header_include_guards/README.md) Modern C++ course `Preprocessor - include guards` example.
 
-## auto keyword
+## [auto keyword](auto_keyword/README.md)
 
-* [auto_without_auto](auto_without_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
-* [auto_with_auto](auto_with_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
-* [auto_declarations](auto_declarations/README.md) Modern C++ course `auto keyword - Declarations` example.
-* [auto_for_range_loop_without_auto](auto_for_range_loop_without_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
-* [auto_for_range_loop_with_auto](auto_for_range_loop_with_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
-* [auto_always_initialized](auto_always_initialized/README.md) Modern C++ course `auto keyword - Always initialized` example.
+* [auto_without_auto](auto_keyword/auto_without_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
+* [auto_with_auto](auto_keyword/auto_with_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
+* [auto_declarations](auto_keyword/auto_declarations/README.md) Modern C++ course `auto keyword - Declarations` example.
+* [auto_for_range_loop_without_auto](auto_keyword/auto_for_range_loop_without_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
+* [auto_for_range_loop_with_auto](auto_keyword/auto_for_range_loop_with_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
+* [auto_always_initialized](auto_keyword/auto_always_initialized/README.md) Modern C++ course `auto keyword - Always initialized` example.
 
 ## inline keyword
 
