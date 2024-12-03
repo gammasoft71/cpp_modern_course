@@ -1,4 +1,4 @@
-# Function examples
+# Functions examples
 
 ![logo](../../../docs/pictures/logo.png)
 
