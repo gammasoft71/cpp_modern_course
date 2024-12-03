@@ -123,8 +123,18 @@ Contains Modern C++ course examples.
 * [preprocessor_constant_macro](language_basics/headers_and_interces_print_hello/README.md) Modern C++ course `Preprocessor - constant macro` example.
 * [preprocessor_function_like_macro](language_basics/preprocessor_function_like_macro/README.md) Modern C++ course `Preprocessor - function like macro` example.
 * [preprocessor_check](language_basics/preprocessor_check/README.md) Modern C++ course `Preprocessor - constant checks` example.
+* [preprocessor_constexpr](language_basics/preprocessor_constexpr/README.md) Modern C++ course `Preprocessor - constexpr` example.
+* [preprocessor_function](language_basics/preprocessor_function/README.md) Modern C++ course `Preprocessor - function` example.
+* [header_include_guards](language_basics/header_include_guards/README.md) Modern C++ course `Preprocessor - include guards` example.
 
 ### auto keyword
+
+* [auto_without_auto](language_basics/auto_without_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
+* [auto_with_auto](language_basics/auto_with_auto/README.md) Modern C++ course `auto keyword - Benefits` example.
+* [auto_declarations](language_basics/auto_declarations/README.md) Modern C++ course `auto keyword - Declarations` example.
+* [auto_for_range_loop_without_auto](language_basics/auto_for_range_loop_without_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
+* [auto_for_range_loop_with_auto](language_basics/auto_for_range_loop_with_auto/README.md) Modern C++ course `auto keyword - for range loop` example.
+* [auto_always_initialized](language_basics/auto_always_initialized/README.md) Modern C++ course `auto keyword - Always initialized` example.
 
 ### inline keyword
 
