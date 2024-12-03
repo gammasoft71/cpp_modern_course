@@ -138,4 +138,9 @@ Contains Modern C++ course examples.
 
 ### inline keyword
 
+* [inline_keyword](language_basics/inline_keyword/README.md) Modern C++ course `inline keyword - inline function` example.
+* [inline_variables](language_basics/inline_variables/README.md) Modern C++ course `inline keyword - inline variables` example.
+
 ### Assertions
+
+* [assert](language_basics/assert/README.md) Modern C++ course `Assertions - Checking invariants in a program` example.
