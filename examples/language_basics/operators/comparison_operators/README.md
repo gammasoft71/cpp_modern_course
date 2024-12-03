@@ -2,7 +2,7 @@
 
 Modern C++ course `comparison_operators` example.
 
-![comparison_operators](../../../docs/pictures/language_basics/comparison_operators.png)
+![comparison_operators](../../../../docs/pictures/language_basics/comparison_operators.png)
 
 ## Source
 

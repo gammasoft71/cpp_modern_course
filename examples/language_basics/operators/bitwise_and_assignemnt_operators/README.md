@@ -2,7 +2,7 @@
 
 Modern C++ course `bitwise_and_assignemnt_operators` example.
 
-![bitwise_and_assignemnt_operators](../../../docs/pictures/language_basics/bitwise_and_assignemnt_operators.png)
+![bitwise_and_assignemnt_operators](../../../../docs/pictures/language_basics/bitwise_and_assignemnt_operators.png)
 
 ## Source
 

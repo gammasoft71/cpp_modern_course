@@ -2,7 +2,7 @@
 
 Modern C++ course `operator_precedences` example.
 
-![operator_precedences](../../../docs/pictures/language_basics/operator_precedences.png)
+![operator_precedences](../../../../docs/pictures/language_basics/operator_precedences.png)
 
 ## Source
 

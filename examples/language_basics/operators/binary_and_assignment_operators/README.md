@@ -2,7 +2,7 @@
 
 Modern C++ course `binary_and_assignment_operators` example.
 
-![binary_and_assignment_operators](../../../docs/pictures/language_basics/binary_and_assignment_operators.png)
+![binary_and_assignment_operators](../../../../docs/pictures/language_basics/binary_and_assignment_operators.png)
 
 ## Source
 

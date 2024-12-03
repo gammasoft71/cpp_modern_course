@@ -2,7 +2,7 @@
 
 Modern C++ course `logical_operators` example.
 
-![logical_operators](../../../docs/pictures/language_basics/logical_operators.png)
+![logical_operators](../../../../docs/pictures/language_basics/logical_operators.png)
 
 ## Source
 

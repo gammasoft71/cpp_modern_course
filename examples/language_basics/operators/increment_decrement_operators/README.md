@@ -2,7 +2,7 @@
 
 Modern C++ course `increment_decrement_operators` example.
 
-![increment_decrement_operators](../../../docs/pictures/language_basics/increment_decrement_operators.png)
+![increment_decrement_operators](../../../../docs/pictures/language_basics/increment_decrement_operators.png)
 
 ## Source
 
