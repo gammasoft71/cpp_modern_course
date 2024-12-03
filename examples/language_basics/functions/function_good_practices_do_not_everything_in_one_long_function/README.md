@@ -2,7 +2,7 @@
 
 Modern C++ course `function_good_practices_do_not_everything_in_one_long_function` example.
 
-![function_good_practices_do_not_everything_in_one_long_function](../../../docs/pictures/language_basics/function_good_practices_do_not_everything_in_one_long_function.png)
+![function_good_practices_do_not_everything_in_one_long_function](../../../../docs/pictures/language_basics/function_good_practices_do_not_everything_in_one_long_function.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `paramters_are_passed_by_value` example.
 
-![paramters_are_passed_by_value](../../../docs/pictures/language_basics/paramters_are_passed_by_value.png)
+![paramters_are_passed_by_value](../../../../docs/pictures/language_basics/paramters_are_passed_by_value.png)
 
 ## Source
 

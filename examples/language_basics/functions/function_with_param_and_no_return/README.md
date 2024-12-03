@@ -2,7 +2,7 @@
 
 Modern C++ course `function_with_param_and_no_return` example.
 
-![function_with_param_and_no_return](../../../docs/pictures/language_basics/function_with_param_and_no_return.png)
+![function_with_param_and_no_return](../../../../docs/pictures/language_basics/function_with_param_and_no_return.png)
 
 ## Source
 

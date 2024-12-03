@@ -2,7 +2,7 @@
 
 Modern C++ course `function_with_default_argument` example.
 
-![function_with_default_argument](../../../docs/pictures/language_basics/function_with_default_argument.png)
+![function_with_default_argument](../../../../docs/pictures/language_basics/function_with_default_argument.png)
 
 ## Source
 

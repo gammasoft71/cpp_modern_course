@@ -2,7 +2,7 @@
 
 Modern C++ course `pass_by_value_or_reference` example.
 
-![pass_by_value_or_reference](../../../docs/pictures/language_basics/pass_by_value_or_reference.png)
+![pass_by_value_or_reference](../../../../docs/pictures/language_basics/pass_by_value_or_reference.png)
 
 ## Source
 

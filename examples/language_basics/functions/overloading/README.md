@@ -2,7 +2,7 @@
 
 Modern C++ course `overloading` example.
 
-![overloading](../../../docs/pictures/language_basics/overloading.png)
+![overloading](../../../../docs/pictures/language_basics/overloading.png)
 
 ## Source
 

@@ -1,4 +1,4 @@
-# Language basics examples
+# References examples
 
 ![logo](../../../docs/pictures/logo.png)
 

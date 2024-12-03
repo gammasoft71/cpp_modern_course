@@ -2,7 +2,7 @@
 
 Modern C++ course `function_with_params_and_return` example.
 
-![function_with_params_and_return](../../../docs/pictures/language_basics/function_with_params_and_return.png)
+![function_with_params_and_return](../../../../docs/pictures/language_basics/function_with_params_and_return.png)
 
 ## Source
 

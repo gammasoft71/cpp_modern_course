@@ -2,7 +2,7 @@
 
 Modern C++ course `different_ways_to_pass_arguments_to_a_function` example.
 
-![different_ways_to_pass_arguments_to_a_function](../../../docs/pictures/language_basics/different_ways_to_pass_arguments_to_a_function.png)
+![different_ways_to_pass_arguments_to_a_function](../../../../docs/pictures/language_basics/different_ways_to_pass_arguments_to_a_function.png)
 
 ## Source
 

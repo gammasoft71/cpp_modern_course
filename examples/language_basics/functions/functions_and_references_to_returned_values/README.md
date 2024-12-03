@@ -2,7 +2,7 @@
 
 Modern C++ course `functions_and_references_to_returned_values` example.
 
-![functions_and_references_to_returned_values](../../../docs/pictures/language_basics/functions_and_references_to_returned_values.png)
+![functions_and_references_to_returned_values](../../../../docs/pictures/language_basics/functions_and_references_to_returned_values.png)
 
 ## Source
 

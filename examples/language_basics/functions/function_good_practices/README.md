@@ -2,7 +2,7 @@
 
 Modern C++ course `function_good_practices` example.
 
-![function_good_practices](../../../docs/pictures/language_basics/function_good_practices.png)
+![function_good_practices](../../../../docs/pictures/language_basics/function_good_practices.png)
 
 ## Source
 
