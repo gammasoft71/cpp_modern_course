@@ -2,7 +2,7 @@
 
 Modern C++ course `scope_and_lifetime_of_variables` example.
 
-![scope_and_lifetime_of_variables](../../../docs/pictures/language_basics/scope_and_lifetime_of_variables.png)
+![scope_and_lifetime_of_variables](../../../../docs/pictures/language_basics/scope_and_lifetime_of_variables.png)
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 Modern C++ course `namespace_alias_very_long_namespace_alias` example.
 
-![namespace_alias_very_long_namespace_alias](../../../docs/pictures/language_basics/namespace_alias_very_long_namespace_alias.png)
+![namespace_alias_very_long_namespace_alias](../../../../docs/pictures/language_basics/namespace_alias_very_long_namespace_alias.png)
 
 ## Source
 

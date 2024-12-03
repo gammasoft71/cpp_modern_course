@@ -2,7 +2,7 @@
 
 Modern C++ course `anonymous_namespace` example.
 
-![anonymous_namespace](../../../docs/pictures/language_basics/anonymous_namespace.png)
+![anonymous_namespace](../../../../docs/pictures/language_basics/anonymous_namespace.png)
 
 ## Source
 

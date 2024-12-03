@@ -2,7 +2,7 @@
 
 Modern C++ course `namespace_alias_nested_namespaces_alias` example.
 
-![namespace_alias_nested_namespaces_alias](../../../docs/pictures/language_basics/namespace_alias_nested_namespaces_alias.png)
+![namespace_alias_nested_namespaces_alias](../../../../docs/pictures/language_basics/namespace_alias_nested_namespaces_alias.png)
 
 ## Source
 

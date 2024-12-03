@@ -2,7 +2,7 @@
 
 Modern C++ course `using_namepsace_directive_with_namepsace` example.
 
-![using_namepsace_directive_with_namepsace](../../../docs/pictures/language_basics/using_namepsace_directive_with_namepsace.png)
+![using_namepsace_directive_with_namepsace](../../../../docs/pictures/language_basics/using_namepsace_directive_with_namepsace.png)
 
 ## Source
 

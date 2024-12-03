@@ -2,7 +2,7 @@
 
 Modern C++ course `anonymous_namespace_static` example.
 
-![anonymous_namespace_static](../../../docs/pictures/language_basics/anonymous_namespace_static.png)
+![anonymous_namespace_static](../../../../docs/pictures/language_basics/anonymous_namespace_static.png)
 
 ## Source
 

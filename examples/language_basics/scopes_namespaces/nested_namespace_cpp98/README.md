@@ -2,7 +2,7 @@
 
 Modern C++ course `nested_namespace_cpp98` example.
 
-![nested_namespace_cpp98](../../../docs/pictures/language_basics/nested_namespace_cpp98.png)
+![nested_namespace_cpp98](../../../../docs/pictures/language_basics/nested_namespace_cpp98.png)
 
 ## Source
 

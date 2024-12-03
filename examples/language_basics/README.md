@@ -29,23 +29,23 @@ Contains Modern C++ course language basics examples.
 * [dynamic_arrays_using_c](core_syntax_and_types/dynamic_arrays_using_c/README.md) Modern C++ course `Dynamic arrays using C` example.
 * [dynamic_arrays_using_cpp](core_syntax_and_types/dynamic_arrays_using_cpp/README.md) Modern C++ course `Dynamic arrays using C++` example.
 
-## Scopes / namespaces
+## [Scopes / namespaces](language_basics/scopes_namespaces/README.md)
 
-* [scope](scope/README.md) Modern C++ course `Scope` example.
-* [scope_and_lifetime_of_variables](scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
-* [namespaces](namespaces/README.md) Modern C++ course `Namespaces` example.
-* [nested_namespace_cpp98](nested_namespace_cpp98/README.md) Modern C++ course `Nested namespace C++98` example.
-* [nested_namespace_cpp17](nested_namespace_cpp17/README.md) Modern C++ course `Nested namespace C++17` example.
-* [namespace_alias_very_long_namespace](namespace_alias_very_long_namespace/README.md) Modern C++ course `Namespace alias: very long namespace` example.
-* [namespace_alias_very_long_namespace_alias](namespace_alias_very_long_namespace_alias/README.md) Modern C++ course `Namespace alias: very long namespace alias` example.
-* [namespace_alias_nested_namespaces](namespace_alias_nested_namespaces/README.md) Modern C++ course `Namespace alias: nested namespaces` example.
-* [namespace_alias_nested_namespaces_alias](namespace_alias_nested_namespaces_alias/README.md) Modern C++ course `Namespace alias: nested namespaces alias` example.
-* [using_namepsace_directive](using_namepsace_directive/README.md) Modern C++ course `Using namepsace directive` example.
-* [using_namepsace_directive_with_namepsace](using_namepsace_directive_with_namepsace/README.md) Modern C++ course `Using namepsace directive with namepsace` example.
-* [using_namepsace_directive_with_nested_namepsaces](using_namepsace_directive_with_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with nested namepsaces` example.
-* [using_namepsace_directive_with_partial_nested_namepsaces](using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
-* [anonymous_namespace](anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
-* [anonymous_namespace_static](anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
+* [scope](scopes_namespaces/scope/README.md) Modern C++ course `Scope` example.
+* [scope_and_lifetime_of_variables](scopes_namespaces/scope_and_lifetime_of_variables/README.md) Modern C++ course `Scope and lifetime of variables` example.
+* [namespaces](scopes_namespaces/namespaces/README.md) Modern C++ course `Namespaces` example.
+* [nested_namespace_cpp98](scopes_namespaces/nested_namespace_cpp98/README.md) Modern C++ course `Nested namespace C++98` example.
+* [nested_namespace_cpp17](scopes_namespaces/nested_namespace_cpp17/README.md) Modern C++ course `Nested namespace C++17` example.
+* [namespace_alias_very_long_namespace](scopes_namespaces/namespace_alias_very_long_namespace/README.md) Modern C++ course `Namespace alias: very long namespace` example.
+* [namespace_alias_very_long_namespace_alias](scopes_namespaces/namespace_alias_very_long_namespace_alias/README.md) Modern C++ course `Namespace alias: very long namespace alias` example.
+* [namespace_alias_nested_namespaces](scopes_namespaces/namespace_alias_nested_namespaces/README.md) Modern C++ course `Namespace alias: nested namespaces` example.
+* [namespace_alias_nested_namespaces_alias](scopes_namespaces/namespace_alias_nested_namespaces_alias/README.md) Modern C++ course `Namespace alias: nested namespaces alias` example.
+* [using_namepsace_directive](scopes_namespaces/using_namepsace_directive/README.md) Modern C++ course `Using namepsace directive` example.
+* [using_namepsace_directive_with_namepsace](scopes_namespaces/using_namepsace_directive_with_namepsace/README.md) Modern C++ course `Using namepsace directive with namepsace` example.
+* [using_namepsace_directive_with_nested_namepsaces](scopes_namespaces/using_namepsace_directive_with_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with nested namepsaces` example.
+* [using_namepsace_directive_with_partial_nested_namepsaces](scopes_namespaces/using_namepsace_directive_with_partial_nested_namepsaces/README.md) Modern C++ course `Using namepsace directive with partial nested namepsaces` example.
+* [anonymous_namespace](scopes_namespaces/anonymous_namespace/README.md) Modern C++ course `Anonymous namespace` example.
+* [anonymous_namespace_static](scopes_namespaces/ anonymous_namespace_static/README.md) Modern C++ course `Anonymous namespace static` example.
 
 ## Struct and enum types
 

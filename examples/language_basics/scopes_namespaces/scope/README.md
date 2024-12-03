@@ -2,7 +2,7 @@
 
 Modern C++ course `scope` example.
 
-![scope](../../../docs/pictures/language_basics/scope.png)
+![scope](../../../../docs/pictures/language_basics/scope.png)
 
 ## Source
 

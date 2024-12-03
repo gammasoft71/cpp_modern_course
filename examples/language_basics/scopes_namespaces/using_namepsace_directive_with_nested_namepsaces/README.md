@@ -2,7 +2,7 @@
 
 Modern C++ course `using_namepsace_directive_with_nested_namepsaces` example.
 
-![using_namepsace_directive_with_nested_namepsaces](../../../docs/pictures/language_basics/using_namepsace_directive_with_nested_namepsaces.png)
+![using_namepsace_directive_with_nested_namepsaces](../../../../docs/pictures/language_basics/using_namepsace_directive_with_nested_namepsaces.png)
 
 ## Source
 

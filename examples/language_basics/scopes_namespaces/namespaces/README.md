@@ -2,7 +2,7 @@
 
 Modern C++ course `namespaces` example.
 
-![namespaces](../../../docs/pictures/language_basics/namespaces.png)
+![namespaces](../../../../docs/pictures/language_basics/namespaces.png)
 
 ## Source
 
