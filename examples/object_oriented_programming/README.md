@@ -7,3 +7,6 @@ Contains Modern C++ course language basics examples.
 ## [Objects and classes](objects_and_classes/README.md)
 
 * [my_first_class](objects_and_classes/my_first_class/README.md) Modern C++ course `My first class` example.
+* [separating_the_interface](objects_and_classes/separating_the_interface/README.md) Modern C++ course `Separating the interface` example.
+* [implementing_methods](objects_and_classes/implementing_methods/README.md) Modern C++ course `Implementing methods` example.
+* [method_overloading](objects_and_classes/method_overloading/README.md) Modern C++ course `Method overloading` example.

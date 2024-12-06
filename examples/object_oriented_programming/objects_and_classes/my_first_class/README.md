@@ -1,6 +1,6 @@
 # my_first_class
 
-Modern C++ course `my_first_class_cpp98` example.
+Modern C++ course `my_first_class` example.
 
 ![my_first_class](../../../../docs/pictures/object_oriented_programming/my_first_class.png)
 
