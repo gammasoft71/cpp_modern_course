@@ -13,7 +13,7 @@ int main() {
     }
   };
   
-  my_first_class my_obj;
+  auto my_obj = my_first_class {};
   my_obj.a = 2;
   
   // let's square a

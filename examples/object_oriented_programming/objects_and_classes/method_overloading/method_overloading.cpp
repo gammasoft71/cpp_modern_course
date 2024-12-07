@@ -16,7 +16,7 @@ int my_first_class::sum(int b, int c) {
 }
 
 int main() {
-  my_first_class my_obj;
+  auto my_obj = my_first_class {};
   my_obj.a = 2;
   
   std::cout << "my_obj.sum(4, 6) = " << my_obj.sum(4, 6) << std::endl;

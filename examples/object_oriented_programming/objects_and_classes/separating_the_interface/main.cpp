@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-  my_class mc {.a = 2};
+  auto mc = my_class {.a = 2};
   mc.square_a();
   
   std::cout << "mc.a = " << mc.a << std::endl;
