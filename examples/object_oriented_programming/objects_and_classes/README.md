@@ -14,3 +14,4 @@ Contains Modern C++ course language basics examples.
 * [managing_inheritance_privacy_public](managing_inheritance_privacy_public/README.md) Modern C++ course `Managing inheritance privacy - public` example.
 * [managing_inheritance_privacy_protected](managing_inheritance_privacy_protected/README.md) Modern C++ course `Managing inheritance privacy - protected` example.
 * [managing_inheritance_privacy_private](managing_inheritance_privacy_private/README.md) Modern C++ course `Managing inheritance privacy - private` example.
+* [final_class](final_class/README.md) Modern C++ course `Final class` example.
