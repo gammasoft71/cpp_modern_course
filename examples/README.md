@@ -22,6 +22,8 @@ Contains Modern C++ course examples.
 ## [Object Oriented Programming (OOP)](object_oriented_programming/README.md)
 
 * [Objects and classes](object_oriented_programming/objects_and_classes/README.md)
+* [Inheritance](object_oriented_programming/inheritance/README.md)
+* [Constructors / Destructors](object_oriented_programming/constructors_destructors/README.md)
 
 ## [Core Modern C++](core_modern_cpp/README.md)
 
