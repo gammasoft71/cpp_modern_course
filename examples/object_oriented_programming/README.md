@@ -24,3 +24,12 @@ Contains Modern C++ course language basics examples.
 ## [Constructors / Destructors](constructors_destructors/README.md)
 
 * [class_cconstructors_and_destructors](constructors_destructors/class_cconstructors_and_destructors/README.md) Modern C++ course `Class constructors and destructors` example.
+* [class_cconstructors_and_destructors_vector](constructors_destructors/class_cconstructors_and_destructors_vector/README.md) Modern C++ course `Class constructors and destructors` example.
+* [constructors_and_inheritance](constructors_destructors/constructors_and_inheritance/README.md) Modern C++ course `Constructors and inheritance` example.
+* [copy_constructor](constructors_destructors/copy_constructor/README.md) Modern C++ course `Copy constructor` example.
+* [copy_constructor_forbiden](constructors_destructors/copy_constructor_forbiden/README.md) Modern C++ course `Copy constructor` example.
+* [copy_constructor_example](constructors_destructors/copy_constructor_example/README.md) Modern C++ course `Copy constructor` example.
+* [copy_constructor_rule_of_3](constructors_destructors/copy_constructor_rule_of_3/README.md) Modern C++ course `Copy constructor rule of 3/5` example.
+* [copy_constructor_rule_of_5](constructors_destructors/copy_constructor_rule_of_5/README.md) Modern C++ course `Copy constructor rule of 3/5` example.
+* [explicit_unary_constructor](constructors_destructors/explicit_unary_constructor/README.md) Modern C++ course `Explicit unary constructor` example.
+* [delegating_constructor](constructors_destructors/delegating_constructor/README.md) Modern C++ course `Delegating constructor` example.
